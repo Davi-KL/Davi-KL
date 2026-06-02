@@ -65,6 +65,19 @@ Sistema web completo para gestão de sessões de terapia em consultórios e clí
 
 ---
 
+### 📱 [SOMA — Análise de Vício Digital e Saúde Mental](https://github.com/cathsatile/SOMA_Social-Media-Overuse-And-Mental-Assessment_)
+> Projeto Integrador I – CEUB 2025/2 · Desenvolvedor Front-end & Documentador
+
+Plataforma de análise de dados sobre o uso excessivo de redes sociais e seus impactos na saúde mental de jovens, com dashboard interativo para visualização de padrões e correlações comportamentais.
+
+- 📊 **Análise de dados** com Python, Pandas, NumPy, Matplotlib, Seaborn e Plotly
+- 🌐 **Dashboard web** desenvolvido com HTML, CSS e JavaScript
+- 🗂️ Coleta, limpeza e tratamento de datasets públicos sobre comportamento digital e saúde mental
+- 📋 Gestão de projeto com **Scrum**, Trello e protótipo no Figma
+- Stack: **Python** (análise), **HTML**, **CSS**, **JavaScript** (front-end)
+
+---
+
 ### 🎓 [ForUnB — Fórum de Dúvidas da UnB](https://github.com/unb-mds/2024-1-forUnB)
 > Disciplina MDS — Métodos de Desenvolvimento de Software · UnB 2024/1 · Membro da equipe de desenvolvimento
 
@@ -102,8 +115,8 @@ Implementação do clássico problema de IA *Wumpus World* — agente que navega
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-KL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-KL&layout=compact&theme=tokyonight&langs_count=7)
+![GitHub Stats](https://github-readme-stats-bzc6hchwl-davi-klein-s-projects.vercel.app/api?username=Davi-KL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-bzc6hchwl-davi-klein-s-projects.vercel.app/api/top-langs/?username=Davi-KL&layout=compact&theme=tokyonight&langs_count=7)
 
 </div>
 
