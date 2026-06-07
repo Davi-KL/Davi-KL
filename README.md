@@ -111,17 +111,6 @@ Implementação do clássico problema de IA *Wumpus World* — agente que navega
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-neon-beta-70.vercel.app/api?username=Davi-KL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-neon-beta-70.vercel.app/api/top-langs/?username=Davi-KL&layout=compact&theme=tokyonight&langs_count=7)
-
-</div>
-
----
-
 ## 🎯 Atualmente
 
 - 🎓 Cursando **Ciência da Computação** (previsão de formatura: 2027/1)
